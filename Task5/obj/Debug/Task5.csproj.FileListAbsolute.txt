@@ -1,0 +1,14 @@
+D:\IBA\Task5\Task5\Task5\obj\Debug\Task5.csprojAssemblyReference.cache
+D:\IBA\Task5\Task5\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+D:\IBA\Task5\Task5\Task5\bin\Debug\Task5.exe.config
+D:\IBA\Task5\Task5\Task5\bin\Debug\Task5.exe
+D:\IBA\Task5\Task5\Task5\bin\Debug\Task5.pdb
+D:\IBA\Task5\Task5\Task5\obj\Debug\Task5.exe
+D:\IBA\Task5\Task5\Task5\obj\Debug\Task5.pdb
+C:\Users\Artsem\OneDrive\Рабочий стол\Task5\Task5\bin\Debug\Task5.exe.config
+C:\Users\Artsem\OneDrive\Рабочий стол\Task5\Task5\bin\Debug\Task5.exe
+C:\Users\Artsem\OneDrive\Рабочий стол\Task5\Task5\bin\Debug\Task5.pdb
+C:\Users\Artsem\OneDrive\Рабочий стол\Task5\Task5\obj\Debug\Task5.csprojAssemblyReference.cache
+C:\Users\Artsem\OneDrive\Рабочий стол\Task5\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\Artsem\OneDrive\Рабочий стол\Task5\Task5\obj\Debug\Task5.exe
+C:\Users\Artsem\OneDrive\Рабочий стол\Task5\Task5\obj\Debug\Task5.pdb
